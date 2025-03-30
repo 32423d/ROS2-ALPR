@@ -1,0 +1,43 @@
+[0.695s] Invoking command in '/home/rich/ros2_ws/src/mo': PYTHONPATH=/home/rich/ros2_ws/build/mo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rich/ros2_ws/install/mo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mo build --build-base /home/rich/ros2_ws/build/mo/build install --record /home/rich/ros2_ws/build/mo/install.log --single-version-externally-managed install_data
+[0.967s] running egg_info
+[0.968s] creating ../../build/mo/mo.egg-info
+[0.968s] writing ../../build/mo/mo.egg-info/PKG-INFO
+[0.968s] writing dependency_links to ../../build/mo/mo.egg-info/dependency_links.txt
+[0.968s] writing entry points to ../../build/mo/mo.egg-info/entry_points.txt
+[0.969s] writing requirements to ../../build/mo/mo.egg-info/requires.txt
+[0.969s] writing top-level names to ../../build/mo/mo.egg-info/top_level.txt
+[0.969s] writing manifest file '../../build/mo/mo.egg-info/SOURCES.txt'
+[0.972s] reading manifest file '../../build/mo/mo.egg-info/SOURCES.txt'
+[0.972s] writing manifest file '../../build/mo/mo.egg-info/SOURCES.txt'
+[0.973s] running build
+[0.973s] running build_py
+[0.973s] creating /home/rich/ros2_ws/build/mo/build
+[0.973s] creating /home/rich/ros2_ws/build/mo/build/lib
+[0.973s] creating /home/rich/ros2_ws/build/mo/build/lib/mo
+[0.973s] copying mo/__init__.py -> /home/rich/ros2_ws/build/mo/build/lib/mo
+[0.974s] copying mo/FastALPRSubscriber.py -> /home/rich/ros2_ws/build/mo/build/lib/mo
+[0.974s] copying mo/CameraPublisher.py -> /home/rich/ros2_ws/build/mo/build/lib/mo
+[0.974s] copying mo/fast_alpr_node.py -> /home/rich/ros2_ws/build/mo/build/lib/mo
+[0.974s] running install
+[0.974s] running install_lib
+[0.976s] creating /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+[0.976s] copying /home/rich/ros2_ws/build/mo/build/lib/mo/__init__.py -> /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+[0.976s] copying /home/rich/ros2_ws/build/mo/build/lib/mo/FastALPRSubscriber.py -> /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+[0.976s] copying /home/rich/ros2_ws/build/mo/build/lib/mo/CameraPublisher.py -> /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+[0.976s] copying /home/rich/ros2_ws/build/mo/build/lib/mo/fast_alpr_node.py -> /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+[0.977s] byte-compiling /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo/__init__.py to __init__.cpython-310.pyc
+[0.977s] byte-compiling /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo/FastALPRSubscriber.py to FastALPRSubscriber.cpython-310.pyc
+[0.978s] byte-compiling /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo/CameraPublisher.py to CameraPublisher.cpython-310.pyc
+[0.979s] byte-compiling /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo/fast_alpr_node.py to fast_alpr_node.cpython-310.pyc
+[0.979s] running install_data
+[0.979s] creating /home/rich/ros2_ws/install/mo/share/ament_index
+[0.980s] creating /home/rich/ros2_ws/install/mo/share/ament_index/resource_index
+[0.980s] creating /home/rich/ros2_ws/install/mo/share/ament_index/resource_index/packages
+[0.980s] copying resource/mo -> /home/rich/ros2_ws/install/mo/share/ament_index/resource_index/packages
+[0.980s] copying package.xml -> /home/rich/ros2_ws/install/mo/share/mo
+[0.980s] running install_egg_info
+[0.982s] Copying ../../build/mo/mo.egg-info to /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo-0.0.0-py3.10.egg-info
+[0.983s] running install_scripts
+[1.007s] Installing fast_alpr_node script to /home/rich/ros2_ws/install/mo/lib/mo
+[1.007s] writing list of installed files to '/home/rich/ros2_ws/build/mo/install.log'
+[1.037s] Invoked command in '/home/rich/ros2_ws/src/mo' returned '0': PYTHONPATH=/home/rich/ros2_ws/build/mo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rich/ros2_ws/install/mo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mo build --build-base /home/rich/ros2_ws/build/mo/build install --record /home/rich/ros2_ws/build/mo/install.log --single-version-externally-managed install_data

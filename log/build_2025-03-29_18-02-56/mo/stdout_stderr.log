@@ -1,0 +1,41 @@
+running egg_info
+creating ../../build/mo/mo.egg-info
+writing ../../build/mo/mo.egg-info/PKG-INFO
+writing dependency_links to ../../build/mo/mo.egg-info/dependency_links.txt
+writing entry points to ../../build/mo/mo.egg-info/entry_points.txt
+writing requirements to ../../build/mo/mo.egg-info/requires.txt
+writing top-level names to ../../build/mo/mo.egg-info/top_level.txt
+writing manifest file '../../build/mo/mo.egg-info/SOURCES.txt'
+reading manifest file '../../build/mo/mo.egg-info/SOURCES.txt'
+writing manifest file '../../build/mo/mo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rich/ros2_ws/build/mo/build
+creating /home/rich/ros2_ws/build/mo/build/lib
+creating /home/rich/ros2_ws/build/mo/build/lib/mo
+copying mo/__init__.py -> /home/rich/ros2_ws/build/mo/build/lib/mo
+copying mo/FastALPRSubscriber.py -> /home/rich/ros2_ws/build/mo/build/lib/mo
+copying mo/CameraPublisher.py -> /home/rich/ros2_ws/build/mo/build/lib/mo
+copying mo/fast_alpr_node.py -> /home/rich/ros2_ws/build/mo/build/lib/mo
+running install
+running install_lib
+creating /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+copying /home/rich/ros2_ws/build/mo/build/lib/mo/__init__.py -> /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+copying /home/rich/ros2_ws/build/mo/build/lib/mo/FastALPRSubscriber.py -> /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+copying /home/rich/ros2_ws/build/mo/build/lib/mo/CameraPublisher.py -> /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+copying /home/rich/ros2_ws/build/mo/build/lib/mo/fast_alpr_node.py -> /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo
+byte-compiling /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo/FastALPRSubscriber.py to FastALPRSubscriber.cpython-310.pyc
+byte-compiling /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo/CameraPublisher.py to CameraPublisher.cpython-310.pyc
+byte-compiling /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo/fast_alpr_node.py to fast_alpr_node.cpython-310.pyc
+running install_data
+creating /home/rich/ros2_ws/install/mo/share/ament_index
+creating /home/rich/ros2_ws/install/mo/share/ament_index/resource_index
+creating /home/rich/ros2_ws/install/mo/share/ament_index/resource_index/packages
+copying resource/mo -> /home/rich/ros2_ws/install/mo/share/ament_index/resource_index/packages
+copying package.xml -> /home/rich/ros2_ws/install/mo/share/mo
+running install_egg_info
+Copying ../../build/mo/mo.egg-info to /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo-0.0.0-py3.10.egg-info
+running install_scripts
+Installing fast_alpr_node script to /home/rich/ros2_ws/install/mo/lib/mo
+writing list of installed files to '/home/rich/ros2_ws/build/mo/install.log'

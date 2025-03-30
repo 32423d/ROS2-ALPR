@@ -1,0 +1,23 @@
+[0.762s] Invoking command in '/home/rich/ros2_ws/src/mo': PYTHONPATH=/home/rich/ros2_ws/build/mo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rich/ros2_ws/install/mo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mo build --build-base /home/rich/ros2_ws/build/mo/build install --record /home/rich/ros2_ws/build/mo/install.log --single-version-externally-managed install_data
+[1.055s] running egg_info
+[1.056s] writing ../../build/mo/mo.egg-info/PKG-INFO
+[1.056s] writing dependency_links to ../../build/mo/mo.egg-info/dependency_links.txt
+[1.056s] writing entry points to ../../build/mo/mo.egg-info/entry_points.txt
+[1.057s] writing requirements to ../../build/mo/mo.egg-info/requires.txt
+[1.057s] writing top-level names to ../../build/mo/mo.egg-info/top_level.txt
+[1.060s] reading manifest file '../../build/mo/mo.egg-info/SOURCES.txt'
+[1.060s] writing manifest file '../../build/mo/mo.egg-info/SOURCES.txt'
+[1.061s] running build
+[1.061s] running build_py
+[1.061s] running install
+[1.062s] running install_lib
+[1.063s] running install_data
+[1.064s] running install_egg_info
+[1.066s] removing '/home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo-0.0.0-py3.10.egg-info' (and everything under it)
+[1.066s] Copying ../../build/mo/mo.egg-info to /home/rich/ros2_ws/install/mo/lib/python3.10/site-packages/mo-0.0.0-py3.10.egg-info
+[1.067s] running install_scripts
+[1.093s] Installing ALPRCameraPublisher script to /home/rich/ros2_ws/install/mo/lib/mo
+[1.094s] Installing FastALPRSubscriber script to /home/rich/ros2_ws/install/mo/lib/mo
+[1.094s] Installing fast_alpr_node script to /home/rich/ros2_ws/install/mo/lib/mo
+[1.094s] writing list of installed files to '/home/rich/ros2_ws/build/mo/install.log'
+[1.124s] Invoked command in '/home/rich/ros2_ws/src/mo' returned '0': PYTHONPATH=/home/rich/ros2_ws/build/mo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rich/ros2_ws/install/mo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mo build --build-base /home/rich/ros2_ws/build/mo/build install --record /home/rich/ros2_ws/build/mo/install.log --single-version-externally-managed install_data

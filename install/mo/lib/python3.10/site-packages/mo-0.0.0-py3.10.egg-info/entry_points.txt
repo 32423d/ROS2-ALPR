@@ -1,0 +1,4 @@
+[console_scripts]
+ALPRCameraPublisher = mo.CameraPublisher:main
+FastALPRSubscriber = mo.FastALPRSubscriber:main
+
